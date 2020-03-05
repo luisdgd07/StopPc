@@ -1,0 +1,12 @@
+C:\Users\Gonzalez Duerto\Documents\SharpDevelop Projects\StopPc\StopPc\obj\Debug\StopPc.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalez Duerto\Documents\SharpDevelop Projects\StopPc\StopPc\bin\Debug\StopPc.exe.config
+C:\Users\Gonzalez Duerto\Documents\SharpDevelop Projects\StopPc\StopPc\bin\Debug\StopPc.exe
+C:\Users\Gonzalez Duerto\Documents\SharpDevelop Projects\StopPc\StopPc\bin\Debug\StopPc.pdb
+C:\Users\Gonzalez Duerto\Documents\SharpDevelop Projects\StopPc\StopPc\obj\Debug\StopPc.exe
+C:\Users\Gonzalez Duerto\Documents\SharpDevelop Projects\StopPc\StopPc\obj\Debug\StopPc.pdb
+C:\Users\Gonzalez Duerto\Documents\SharpDevelop Projects\StopPc\StopPc\obj\Debug\StopPc.Tiempo.resources
+C:\Users\Gonzalez Duerto\Documents\SharpDevelop Projects\StopPc\StopPc\obj\Debug\StopPc.csproj.GenerateResource.Cache
+C:\Users\Gonzalez Duerto\Documents\SharpDevelop Projects\StopPc\StopPc\obj\Debug\StopPc.Stop.resources
+C:\Users\Gonzalez Duerto\Documents\SharpDevelop Projects\StopPc\StopPc\bin\Debug\pa-Guru\StopPc.resources.dll
+C:\Users\Gonzalez Duerto\Documents\SharpDevelop Projects\StopPc\StopPc\obj\Debug\StopPc.Tiempo.pa-Guru.resources
+C:\Users\Gonzalez Duerto\Documents\SharpDevelop Projects\StopPc\StopPc\obj\Debug\pa-Guru\StopPc.resources.dll
